@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "linkedin-copilot": {
+      "command": "node",
+      "args": ["/absolute/path/to/linkedin-copilot-mcp-community/src/server.ts"]
+    }
+  }
+}
