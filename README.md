@@ -6,11 +6,15 @@ A headless, locally installed MCP server for LinkedIn relationship memory, evide
 
 This is an independently packaged community edition with fresh source history, generic configuration and synthetic tests. It contains no hosted personal installation, deployment identity, owner inbox, operating policy or company-specific CRM adapter. It is not affiliated with or endorsed by LinkedIn.
 
-<!-- direct-downloads -->
-[![Download community package](https://img.shields.io/badge/Download%20community%20package-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/download/v0.1.0/LinkedIn_Copilot_MCP_Community_v0.1.0.zip)
+## Download
 
-[Download community package](https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/download/v0.1.0/LinkedIn_Copilot_MCP_Community_v0.1.0.zip) · [Release v0.1.0](https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/tag/v0.1.0)
-<!-- /direct-downloads -->
+<p>
+<a href="https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/download/v0.1.0/LinkedIn_Copilot_MCP_Community_v0.1.0.zip"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download package"></a>
+</p>
+
+[community package · v0.1.0](https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/download/v0.1.0/LinkedIn_Copilot_MCP_Community_v0.1.0.zip)
+
+[Release notes](https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/tag/v0.1.0)
 
 ## What works
 
