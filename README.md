@@ -1,4 +1,4 @@
-# LinkedIn Copilot MCP · Community Edition
+<p align="center"><strong>LinkedIn Copilot MCP · Community Edition</strong></p>
 
 A headless, locally installed MCP server for LinkedIn relationship memory, evidence-backed classifications, follow-ups and reply drafts. Your MCP-compatible assistant supplies the reasoning; this server stores channel state and exposes bounded tools.
 
@@ -6,9 +6,7 @@ A headless, locally installed MCP server for LinkedIn relationship memory, evide
 
 This is an independently packaged community edition with fresh source history, generic configuration and synthetic tests. It contains no hosted personal installation, deployment identity, owner inbox, operating policy or company-specific CRM adapter. It is not affiliated with or endorsed by LinkedIn.
 
-## Download
-
-<p>
+<p align="center">
 <a href="https://github.com/Kian-hdr/linkedin-copilot-mcp-community/releases/download/v0.1.0/LinkedIn_Copilot_MCP_Community_v0.1.0.zip"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download package"></a>
 </p>
 
